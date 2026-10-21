@@ -45,4 +45,5 @@ This application currently processes uploaded WhatsApp `.txt` chat exports. It d
 
 ## Developer
 **Abeera Kakakhel**
+**Jalwa Rashid**
 
